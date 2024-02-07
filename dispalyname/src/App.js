@@ -14,6 +14,7 @@ function FullNameForm() {
 
   return (
     <div>
+      <h2>Full Name Display</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
